@@ -4,7 +4,8 @@ Develop an AI-powered yoga mat that offers real-time feedback on a user's postur
 
 ## FlowChart: 
 
-![image_flowchart](https://drive.google.com/file/d/142TotSMkLKW7whfaFQF5A_rOHT9OTw7w/view?usp=sharing)
+![FLOWCHART](https://github.com/user-attachments/assets/27053b11-7b8f-4544-a60a-b59e735530a4)
+
 
 ## Process:
 
