@@ -1,6 +1,10 @@
 # Smart Yoga Mat with AI Capabilities
 ## Objective:
-Develop an AI-powered yoga mat that offers real-time feedback on a user's posture during yoga practice, helping individuals correct their form and avoid injuries.
+Develop an AI-powered yoga mat that offers real-time feedback on a user's posture during yoga practice, helping individuals correct their form and avoid injuries
+
+## FlowChart: 
+
+![image_flowchart](https://drive.google.com/file/d/142TotSMkLKW7whfaFQF5A_rOHT9OTw7w/view?usp=sharing)
 
 ## Process:
 
